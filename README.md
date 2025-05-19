@@ -22,19 +22,19 @@
 
 ### 1. [ Cat and Dog Image Classifier](https://github.com/SecondGG/freeCodeCamp-MachineLearningWithPython-Challenges/blob/main/fcc_cat_dog_image_classification.ipynb)
 
-ในโครงการนี้ ได้ออกแบบและสร้างโมเดลเครือข่ายประสาทเทียมแบบคอนโวลูชัน (CNN) เพื่อจำแนกภาพของแมวและสุนัข การฝึกและตรวจสอบโมเดลดำเนินการโดยใช้ TensorFlow และโมเดลที่ได้สามารถแยกความแตกต่างระหว่างสัตว์เลี้ยงยอดนิยมสองประเภทนี้ได้อย่างมีประสิทธิภาพ
+ออกแบบและสร้างโมเดลเครือข่ายประสาทเทียมแบบคอนโวลูชัน (CNN) เพื่อจำแนกภาพของแมวและสุนัข การฝึกและตรวจสอบโมเดลดำเนินการโดยใช้ TensorFlow และโมเดลที่ได้สามารถแยกความแตกต่างระหว่างสัตว์เลี้ยงยอดนิยมสองประเภทนี้ได้อย่างมีประสิทธิภาพ
 
 ### 2. [Book Recommendation Engine using KNN](https://github.com/SecondGG/freeCodeCamp-MachineLearningWithPython-Challenges/blob/main/fcc_book_recommendation_using_knn.ipynb)
 
-สำหรับโครงการนี้ ได้รับภารกิจในการสร้างเครื่องมือแนะนำหนังสือ หลังจากการประมวลผลชุดข้อมูล ผมได้สร้างโมเดล K Nearest Neighbors (KNN) เพื่อให้คำแนะนำหนังสือที่เหมาะสมตามความชอบของผู้ใช้
+การสร้างเครื่องมือแนะนำหนังสือ หลังจากการประมวลผลชุดข้อมูล ผมได้สร้างโมเดล K Nearest Neighbors (KNN) เพื่อให้คำแนะนำหนังสือที่เหมาะสมตามความชอบของผู้ใช้
 
 ### 3. [Linear Regression Health Costs Calculator](https://github.com/SecondGG/freeCodeCamp-MachineLearningWithPython-Challenges/blob/main/fcc_predict_health_costs_with_regression.ipynb)
 
-ที่นี่ ได้ใช้การถดถอยเชิงเส้นเพื่อพัฒนาโมเดลที่สามารถทำนายค่าใช้จ่ายด้านการดูแลสุขภาพ ผ่านการวิเคราะห์ข้อมูลและวิศวกรรมคุณลักษณะ ผมได้สร้างโมเดลที่สามารถประมาณค่าใช้จ่ายที่เกี่ยวข้องกับการรักษาสุขภาพ
+ช้การถดถอยเชิงเส้นเพื่อพัฒนาโมเดลที่สามารถทำนายค่าใช้จ่ายด้านการดูแลสุขภาพ ผ่านการวิเคราะห์ข้อมูลและวิศวกรรมคุณลักษณะ ผมได้สร้างโมเดลที่สามารถประมาณค่าใช้จ่ายที่เกี่ยวข้องกับการรักษาสุขภาพ
 
 ### 4. [Neural Network SMS Text Classifier](https://github.com/SecondGG/freeCodeCamp-MachineLearningWithPython-Challenges/blob/main/fcc_sms_text_classification.ipynb)
 
-ได้นำโมเดลเครือข่ายประสาทเทียมมาใช้สำหรับการจำแนกอารมณ์ความรู้สึกของข้อความ SMS โดยการฝึกโมเดลบนชุดข้อมูลที่มีป้ายกำกับ โมเดลสามารถแยกความแตกต่างระหว่างข้อความที่ถูกต้อง (ham) และข้อความขยะ (spam) ได้อย่างมีประสิทธิภาพ
+นำโมเดลเครือข่ายประสาทเทียมมาใช้สำหรับการจำแนกอารมณ์ความรู้สึกของข้อความ SMS โดยการฝึกโมเดลบนชุดข้อมูลที่มีป้ายกำกับ โมเดลสามารถแยกความแตกต่างระหว่างข้อความที่ถูกต้อง (ham) และข้อความขยะ (spam) ได้อย่างมีประสิทธิภาพ
 
 
 นี่คือ[ลิงก์](https://drive.google.com/file/d/14UkC16GsZqIIZT5H5X-amyWBpmYtEHzU/view?usp=drive_link) ไปยังใบรับรองของผม
