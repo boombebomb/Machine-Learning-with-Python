@@ -33,7 +33,7 @@
 
 ### 3. [Linear Regression Health Costs Calculator](https://github.com/boombebomb/Machine-Learning-with-Python/blob/6ffd9090c4a440da989a0dfc2c7360b4bf99da3d/fcc_predict_health_costs_with_regression.ipynb)
 
-ช้การถดถอยเชิงเส้นเพื่อพัฒนาโมเดลที่สามารถทำนายค่าใช้จ่ายด้านการดูแลสุขภาพ ผ่านการวิเคราะห์ข้อมูลและวิศวกรรมคุณลักษณะ ผมได้สร้างโมเดลที่สามารถประมาณค่าใช้จ่ายที่เกี่ยวข้องกับการรักษาสุขภาพ
+ใช้การถดถอยเชิงเส้นเพื่อพัฒนาโมเดลที่สามารถทำนายค่าใช้จ่ายด้านการดูแลสุขภาพ ผ่านการวิเคราะห์ข้อมูลและวิศวกรรมคุณลักษณะ ผมได้สร้างโมเดลที่สามารถประมาณค่าใช้จ่ายที่เกี่ยวข้องกับการรักษาสุขภาพ
 
 ### 4. [Neural Network SMS Text Classifier](https://github.com/boombebomb/Machine-Learning-with-Python/blob/6ffd9090c4a440da989a0dfc2c7360b4bf99da3d/fcc_sms_text_classification.ipynb)
 
