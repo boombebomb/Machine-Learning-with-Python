@@ -18,7 +18,7 @@
   - การเรียนรู้แบบเสริมแรง (Reinforcement Learning)
   - โครงการที่เสร็จสมบูรณ์
 
-## ตลอดหลักสูตร ผมได้ทำโครงการการเรียนรู้ของเครื่องต่อไปนี้สำเร็จ:
+## Mini Project:
 
 ### 1. [ Cat and Dog Image Classifier](https://github.com/SecondGG/freeCodeCamp-MachineLearningWithPython-Challenges/blob/main/fcc_cat_dog_image_classification.ipynb)
 
