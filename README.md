@@ -23,6 +23,9 @@
 ### 1. [ Cat and Dog Image Classifier](https://github.com/boombebomb/Machine-Learning-with-Python/blob/6ffd9090c4a440da989a0dfc2c7360b4bf99da3d/fcc_cat_dog.ipynb)
 
 ออกแบบและสร้างโมเดลเครือข่ายประสาทเทียมแบบคอนโวลูชัน (CNN) เพื่อจำแนกภาพของแมวและสุนัข การฝึกและตรวจสอบโมเดลดำเนินการโดยใช้ TensorFlow และโมเดลที่ได้สามารถแยกความแตกต่างระหว่างสัตว์เลี้ยงยอดนิยมสองประเภทนี้ได้อย่างมีประสิทธิภาพ
+<p align="center">
+  <img src="images/predict_result.png" width="500" alt="ผลลัพธ์โมเดล">
+</p>
 
 ### 2. [Book Recommendation Engine using KNN](https://github.com/boombebomb/Machine-Learning-with-Python/blob/6ffd9090c4a440da989a0dfc2c7360b4bf99da3d/fcc_book_recommendation_knn.ipynb)
 
