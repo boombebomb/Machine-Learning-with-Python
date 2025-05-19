@@ -1,4 +1,4 @@
-#Machine Learning with Python
+## Machine Learning with Python
 
 ที่นี่เก็บคำตอบของผมสำหรับความท้าทายจากหลักสูตร "[Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python)" ที่จัดโดย freeCodeCamp ตลอดหลักสูตร ผมได้ศึกษาแนวคิดการเรียนรู้ของเครื่องที่หลากหลาย ตั้งแต่โมเดลพื้นฐานไปจนถึงเทคนิคขั้นสูง โดยใช้เฟรมเวิร์ก TensorFlow หลักสูตรครอบคลุมทุกอย่างตั้งแต่การถดถอยเชิงเส้นพื้นฐานและการจำแนกประเภท ไปจนถึงหัวข้อที่ซับซ้อนยิ่งขึ้น เช่น CNN NLP และReinforcement Learning
 
