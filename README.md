@@ -24,7 +24,7 @@
 
 ออกแบบและสร้างโมเดลเครือข่ายประสาทเทียมแบบคอนโวลูชัน (CNN) เพื่อจำแนกภาพของแมวและสุนัข การฝึกและตรวจสอบโมเดลดำเนินการโดยใช้ TensorFlow และโมเดลที่ได้สามารถแยกความแตกต่างระหว่างสัตว์เลี้ยงยอดนิยมสองประเภทนี้ได้อย่างมีประสิทธิภาพ
 <p align="center">
-  <img src="images/predict_result.png" width="500" alt="ผลลัพธ์โมเดล">
+  <img src="https://drive.google.com/file/d/1u-RTREw3wNHgIyEW-1BmdpdcF-6XTOM0/view?usp=drive_link" width="500" alt="ผลลัพธ์โมเดล">
 </p>
 
 ### 2. [Book Recommendation Engine using KNN](https://github.com/boombebomb/Machine-Learning-with-Python/blob/6ffd9090c4a440da989a0dfc2c7360b4bf99da3d/fcc_book_recommendation_knn.ipynb)
