@@ -23,12 +23,13 @@
 ### 1. [ Cat and Dog Image Classifier](https://github.com/boombebomb/Machine-Learning-with-Python/blob/6ffd9090c4a440da989a0dfc2c7360b4bf99da3d/fcc_cat_dog.ipynb)
 
 ออกแบบและสร้างโมเดลเครือข่ายประสาทเทียมแบบคอนโวลูชัน (CNN) เพื่อจำแนกภาพของแมวและสุนัข การฝึกและตรวจสอบโมเดลดำเนินการโดยใช้ TensorFlow และโมเดลที่ได้สามารถแยกความแตกต่างระหว่างสัตว์เลี้ยงยอดนิยมสองประเภทนี้ได้อย่างมีประสิทธิภาพ
-<p align="center">
-<img src="/KNN.png" width="500" alt="ผลลัพธ์โมเดล">
-</p>
+
 ### 2. [Book Recommendation Engine using KNN](https://github.com/boombebomb/Machine-Learning-with-Python/blob/6ffd9090c4a440da989a0dfc2c7360b4bf99da3d/fcc_book_recommendation_knn.ipynb)
 
 การสร้างเครื่องมือแนะนำหนังสือ หลังจากการประมวลผลชุดข้อมูล ผมได้สร้างโมเดล K Nearest Neighbors (KNN) เพื่อให้คำแนะนำหนังสือที่เหมาะสมตามความชอบของผู้ใช้
+<p align="center">
+<img src="/KNN.png" width="500" alt="ผลลัพธ์โมเดล">
+</p>
 
 ### 3. [Linear Regression Health Costs Calculator](https://github.com/boombebomb/Machine-Learning-with-Python/blob/6ffd9090c4a440da989a0dfc2c7360b4bf99da3d/fcc_predict_health_costs_with_regression.ipynb)
 
