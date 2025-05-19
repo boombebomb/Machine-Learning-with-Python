@@ -37,4 +37,4 @@
 ได้นำโมเดลเครือข่ายประสาทเทียมมาใช้สำหรับการจำแนกอารมณ์ความรู้สึกของข้อความ SMS โดยการฝึกโมเดลบนชุดข้อมูลที่มีป้ายกำกับ โมเดลสามารถแยกความแตกต่างระหว่างข้อความที่ถูกต้อง (ham) และข้อความขยะ (spam) ได้อย่างมีประสิทธิภาพ
 
 
-นี่คือ[ลิงก์](https://www.freecodecamp.org/certification/Boom0x/machine-learning-with-python-v7) ไปยังใบรับรองของผม
+นี่คือ[ลิงก์](https://drive.google.com/file/d/14UkC16GsZqIIZT5H5X-amyWBpmYtEHzU/view?usp=drive_link) ไปยังใบรับรองของผม
